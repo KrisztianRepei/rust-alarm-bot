@@ -1,0 +1,14 @@
+{
+  "name": "rust-alarm-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@liamcottle/rustplus.js": "^2.3.0",
+    "dotenv": "^16.4.5"
+  }
+}
